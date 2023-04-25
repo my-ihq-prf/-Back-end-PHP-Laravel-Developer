@@ -1,5 +1,7 @@
 # [Тестове завдання для Back-end PHP (Laravel) Developer](https://axisbits.notion.site/Back-end-PHP-Laravel-Developer-7b554249954948f4b8c69f4e19a9c190)
 
+### [git](https://github.com/my-ihq-prf/-Back-end-PHP-Laravel-Developer)
+
 ### Виконання:
 
  - Виконувати перших 2 завдання потрібно на чистому PHP (без бази даних та HTML), а решту завдань тільки з MySQL. 
